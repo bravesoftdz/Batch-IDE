@@ -131,17 +131,16 @@ object Form1: TForm1
     object lbl1: TLabel
       Left = 8
       Top = 630
-      Width = 138
+      Width = 177
       Height = 19
       Anchors = [akLeft, akBottom]
-      Caption = 'Made by Inforcer25'
+      Caption = 'Made by Adriaan Boshoff'
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -16
       Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
-      ExplicitTop = 480
     end
     object lbl2: TLabel
       Left = 55
