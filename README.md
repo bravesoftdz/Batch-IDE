@@ -1,7 +1,7 @@
 <h1>Simple Batch IDE</h1>
 Simple Batch IDE allows you to Create, Edit and Execute Batch files
 
-<a href="https://github.com/Inforcer25/Graphical-CMD/raw/master/Graphical%20CMD.exe">
+<a href="https://github.com/Inforcer25/Batch-IDE/raw/master/Simple%20Batch%20IDE.exe">
   <img src="http://i.imgur.com/qoGP19r.png" alt="Download">
 </a>
 
