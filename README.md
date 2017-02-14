@@ -13,7 +13,7 @@ Simple Batch IDE allows you to Create, Edit and Execute Batch files
 
 <h2>Preview</h2> 
 
-![prev](http://i.imgur.com/m128azv.png "Preview")
+![prev](http://i.imgur.com/sZkvcWv.png "Preview")
 
 <h2>For Developers</h2>
 This was made & compiled with Rad Studio Berlin Update 2
